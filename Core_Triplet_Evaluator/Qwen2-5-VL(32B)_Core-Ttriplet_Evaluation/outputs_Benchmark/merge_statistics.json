@@ -1,0 +1,6 @@
+{
+  "total_images": 500,
+  "total_pool_triplets": 6176,
+  "total_final_triplets": 1370,
+  "removed_by_dedup": 4806
+}
